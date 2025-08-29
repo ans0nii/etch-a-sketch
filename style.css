@@ -30,7 +30,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  border: solid black 20px;
+  border: solid black 3px;
   padding: 40px;
   height: fit-content;
   margin: 30px;
@@ -40,5 +40,6 @@
 }
 
 .box {
-  border: 1px solid black;
+  border: .5px solid black;
+  
 }
